@@ -1,0 +1,6 @@
+train: /home/fisher/Peoples/egha2/paper_training/gmission_yolo_data/of_o2/train/images
+val: /home/fisher/Peoples/egha2/paper_training/gmission_yolo_data/of_o2/val/images
+test : /home/fisher/Peoples/egha2/paper_training/gmission_yolo_data/of_o2/test/images
+
+nc: 2
+names: ['non-o2', 'o2']
